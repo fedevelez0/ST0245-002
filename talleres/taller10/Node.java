@@ -1,4 +1,3 @@
-package talleres;
 public class Node {
 
     public Node left,rigth;
