@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class DiagraphAM extends Graph {
+public class DigraphAM extends Digraph {
 
     int[][] mat;
     public DiagraphAM(int size) {
