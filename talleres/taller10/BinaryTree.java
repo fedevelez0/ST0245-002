@@ -1,4 +1,3 @@
-package talleres;
 public class BinaryTree {
 
     private Node root;
