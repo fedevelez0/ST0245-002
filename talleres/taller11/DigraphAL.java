@@ -2,7 +2,7 @@ import java.util.Pair;
 import java.util.ArrayList;
 import java.util.LinkedList;
 
-public class DigraphAL extends Graph {
+public class DigraphAL extends Digraph {
     private ArrayList<LinkedList<Pair<Integer,Integer>>> nodo;
 
     public DigraphAL(int size) {
