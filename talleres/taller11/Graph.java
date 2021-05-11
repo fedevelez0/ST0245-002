@@ -1,10 +1,10 @@
 import java.util.ArrayList;
 
 
-public abstract class Graph {
+public abstract class Digraph {
     protected int size;
 
-    public Graph(int vertices) {
+    public Digraph(int vertices) {
         size = vertices;
     }
 
