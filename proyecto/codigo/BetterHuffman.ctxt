@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=BetterHuffman
+comment1.params=s
+comment1.target=byte[]\ compress(java.lang.String)
+comment1.text=\r\n\ \ \ Compress\ string\ in\ bytes\r\n
+comment2.params=freq
+comment2.target=BetterHuffman.Node\ buildTrie(int[])
+comment2.text=\r\n\ \ \ build\ huffman\ tree\r\n
+comment3.params=x\ binaryOut
+comment3.target=void\ writeTrie(BetterHuffman.Node,\ BetterHuffman.HuffmanOut)
+comment3.text=\r\n\ \ \ write\ tree\ into\ byte\ output\r\n
+comment4.params=st\ x\ s
+comment4.target=void\ buildCode(java.lang.String[],\ BetterHuffman.Node,\ java.lang.String)
+comment4.text=\r\n\ \ \ make\ substitutes\ for\ incoming\ words\r\n
+comment5.params=value
+comment5.target=java.lang.String\ expand(byte[])
+comment5.text=\r\n\ \ \ Return\ uncompressed\ string\r\n
+comment6.params=binaryIn
+comment6.target=BetterHuffman.Node\ readTrie(BetterHuffman.HuffmanIn)
+comment6.text=\r\n\ \ \ get\ tree\ from\ bytes\r\n
+numComments=7

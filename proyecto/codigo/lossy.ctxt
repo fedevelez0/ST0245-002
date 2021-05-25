@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=lossy
+comment1.params=pixels\ w\ h\ w2\ h2
+comment1.target=int[]\ resizeBilinearGray(int[],\ int,\ int,\ int,\ int)
+numComments=2
